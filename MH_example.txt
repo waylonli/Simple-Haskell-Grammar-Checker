@@ -1,0 +1,7 @@
+
+-- Example of a program in Micro-Haskell (2013)
+
+
+gcd :: Bool -> Integer -> Integer ;
+gcd m n = if m then 0 else 1 ;
+
